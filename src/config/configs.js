@@ -1,3 +1,5 @@
+// Platform configuration keys and URL's.
+
 export const API_KEY = '857a1e5d-e35e-4fdf-805b-a87b6f8364bf';
 export const REALM = 'dce.ufc';
 export const BASE_URL = 'https://dce-frontoffice-stag.imggaming.com/api/v2/';
